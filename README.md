@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Welcome to my Github profile
+### Welcome to my Github profile
 
 <!--
 **Rajanpandey/RajanPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
