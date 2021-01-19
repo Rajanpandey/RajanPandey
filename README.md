@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hey 👋, I'm Rajan 
 ### Welcome to my Github profile
+
+<a href="https://www.linkedin.com/in/rajankpandey/">
+  <img align="left" alt="Rajan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <p align="center">
     <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RajanPandey.RajanPandey" />
