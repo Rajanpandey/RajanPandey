@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### Welcome to my Github profile
 
+<p align="center">
+    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RajanPandey.RajanPandey" />
+</p>
+
 <!--
 **Rajanpandey/RajanPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
