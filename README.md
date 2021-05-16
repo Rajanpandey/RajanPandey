@@ -9,13 +9,13 @@
     <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RajanPandey.RajanPandey" />
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=RajanPandey)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RajanPandey&show_icons=true)
 
-[![Rajan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RajanPandey&theme=xcode)]
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RajanPandey&theme=xcode)
 
-![Rajan GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RajanPandey&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajanPandey)
 
-![Rajan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajanPandey)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajanPandey)
 
 
 <!--
