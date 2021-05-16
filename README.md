@@ -11,6 +11,13 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RajanPandey)
 
+[![Rajan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RajanPandey&theme=xcode)]
+
+![Rajan GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RajanPandey&show_icons=true)
+
+![Rajan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajanPandey)
+
+
 <!--
 **Rajanpandey/RajanPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
